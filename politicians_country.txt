@@ -1,5 +1,10 @@
-Andrzej Duda,Poland  
 Joe Biden,United States  
-Emmanuel Macron,France  
-Angela Merkel,Germany  
-Pedro Sánchez,Spain  
+Kamala Harris,United States  
+Nancy Pelosi,United States  
+Mitch McConnell,United States  
+Chuck Schumer,United States  
+Bernie Sanders,United States  
+Alexandria Ocasio-Cortez,United States  
+Ted Cruz,United States  
+Ron DeSantis,United States  
+Hillary Clinton,United States  
